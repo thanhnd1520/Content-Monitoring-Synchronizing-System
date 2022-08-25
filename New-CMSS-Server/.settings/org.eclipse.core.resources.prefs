@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/server/Server.java=UTF-8
+encoding//src/main/java/server/ServerConsumer.java=UTF-8
+encoding//src/main/java/server_handler/ServerThreadConsumer.java=UTF-8
+encoding//src/main/java/server_handler/ServerThreadListener.java=UTF-8
